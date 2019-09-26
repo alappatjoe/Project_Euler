@@ -1,4 +1,5 @@
 # Project Euler Problem 2
+# sum of even fibonacci numbers below 4000000
 
 sum = 0
 fib1 = 1
