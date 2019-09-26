@@ -1,4 +1,5 @@
 # Project Euler Problem 4
+# finding the largest palindrome made from the product of two 3-digit numbers
 
 palin = 0
 num = 0
