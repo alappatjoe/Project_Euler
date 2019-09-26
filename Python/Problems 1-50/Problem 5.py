@@ -1,4 +1,5 @@
 # Project Euler Problem 5
+# finding the smallest number divisible by 1-20
 
 num = 1
 i = 0
