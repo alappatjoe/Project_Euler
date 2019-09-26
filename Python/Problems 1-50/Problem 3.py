@@ -1,4 +1,5 @@
 # Project Euler Problem 3
+# finding the largest prime factor of a number
 
 import math
 
@@ -7,6 +8,7 @@ factors = []
 primeFactors = []
 prime = True
 
+# finds 
 for i in range(2, int(math.sqrt(num))):
     if num % i == 0:
         factors.append(i)
