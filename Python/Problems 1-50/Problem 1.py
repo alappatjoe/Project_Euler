@@ -1,4 +1,5 @@
 # Project Euler Problem 1
+# sum of all multiples of 3 and 5 below 1000
 
 sum = 0
 
